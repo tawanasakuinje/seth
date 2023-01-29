@@ -57,7 +57,7 @@ import { onMount } from "svelte";
 
 
  
-<img class=' leap  opacity-0  h-32 mt-10 mx-6 ' src="ssw.png" alt="">
+<img class=' yeet  opacity-0  h-32 mt-10 mx-6 ' src="ssw.png" alt="">
 
 
 
