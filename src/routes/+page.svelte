@@ -309,7 +309,7 @@ import { onMount } from "svelte";
 
         <p class="text-gray-400">-Address: 3600 Old Forest Rd. Lynchburg VA, 24501 </p>
 
-        <p class="text-gray-400"> Beginner speakers </p>
+        
 
       </div>
 
