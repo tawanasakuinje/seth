@@ -318,7 +318,7 @@ import { onMount } from "svelte";
    
    <div class='p-4 '>
 
-        <iframe class='mx-auto rounded-lg w-[18rem]' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.2058188170913!2d-79.21908468609941!3d37.40860984091709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b2d74f2d561741%3A0x9ae38d8584b4e9df!2s3600%20Old%20Forest%20Rd%2C%20Lynchburg%2C%20VA%2024501%2C%20USA!5e0!3m2!1sen!2szm!4v1674931045707!5m2!1sen!2szm" width="450" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe  class='mx-auto rounded-lg w-[18rem]' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.2058188170913!2d-79.21908468609941!3d37.40860984091709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b2d74f2d561741%3A0x9ae38d8584b4e9df!2s3600%20Old%20Forest%20Rd%2C%20Lynchburg%2C%20VA%2024501%2C%20USA!5e0!3m2!1sen!2szm!4v1674931045707!5m2!1sen!2szm"  width="450" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
    </div>
   
