@@ -57,7 +57,7 @@ import { onMount } from "svelte";
 
 
  
-<img class=' leap  opacity-0  h-64  md:mx-auto   mx-auto' src="shine .jpg" alt="">
+<img class=' leap  opacity-0  md:h-48  h-64  md:mx-auto   mx-auto' src="shine .jpg" alt="">
 
 
 
@@ -67,7 +67,7 @@ import { onMount } from "svelte";
 
 <div class="md:flex md:flex-row flex flex-col-reverse  space-x-8  ">
 
-  <div class="md:text-7xl w-80 lup text-4xl md:w-1/2 md:mx-32 mr-32 opacity-0 md:mt-12 mt-80 md:font-bold font-bold font-mono  md:text-gray-600 text-gray-600 ">Give us the time we will make it shine!</div>
+  <div class="md:text-7xl w-80 lup text-4xl md:w-1/2 md:mx-32 mr-32 opacity-0 md:mt-8 mt-80 md:font-bold font-bold font-mono  md:text-gray-600 text-gray-600 ">Give us the time we will make it shine!</div>
 
   <div class="md:w-1/2   w-full  ">
 
@@ -115,7 +115,7 @@ import { onMount } from "svelte";
 
 <div class="flex md:mt-32 mt-32 md:flex-row flex-col-reverse beem opacity-0 "> 
 
-<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6  text-2xl mt-12 m-12 mx-auto text-gray-500  shadow-lg rounded-lg md:h-64 ">A locally owned window cleaning business servicing Lynchburg, VA and surrounding areas. We specialize in residential and commercial window cleaning services. We can also provide cleaning to gutters and solar panels. Serving the community and others is a core value of ours. A portion of our proceeds are earmarked to help an orphanage in Cameroon Africa to provide financial support and help the kids with resources to to attend school and obtain an education. I also donate some of my services to support local churches. I invite you to partner with me to love on and support our community of great people.</div>
+<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6 md:mt-4  text-2xl md:p-4 mt-12 m-12 mx-auto text-gray-500  shadow-lg rounded-lg  ">A locally owned window cleaning business servicing Lynchburg, VA and surrounding areas. We specialize in residential and commercial window cleaning services. We can also provide cleaning to gutters and solar panels. Serving the community and others is a core value of ours. A portion of our proceeds are earmarked to help an orphanage in Cameroon Africa to provide financial support and help the kids with resources to to attend school and obtain an education. I also donate some of my services to support local churches. I invite you to partner with me to love on and support our community of great people.</div>
  
 <div  class='md:w-1/2  p-4'><img class="h-80 object-cover mx-auto md:mx-32" src="bb.png" alt=""></div>
 </div>
@@ -130,7 +130,7 @@ import { onMount } from "svelte";
 <!--section3-->  
 
 
-<div class="text-center mt-32 md:text-2xl font-bold yeet opacity-0 text-2xl text-gray-500">Our primarily focus</div>
+<div class="text-center md:mt-32 mt-12 md:text-2xl font-bold yeet opacity-0 text-2xl text-gray-500">Our primarily focus</div>
 
 
 
@@ -253,7 +253,7 @@ import { onMount } from "svelte";
 <!--section5-->
 
 
-<div class="text-center mt-20 font-bold yeet opacity-0  text-2xl text-gray-500">more info</div>
+<div class="text-center mt-64 md:mt-32  font-bold yeet opacity-0  text-2xl text-gray-500">more info</div>
 
 
 <!-- component -->
@@ -264,7 +264,7 @@ import { onMount } from "svelte";
 
 
 
-<div class="h-screen flex flex-col mt-32 mx-auto yeet opacity-0  gap-4 items-center justify-center bg-white">
+<div class="h-screen flex flex-col mt-2 md:mt-32 mx-auto yeet opacity-0  gap-4 items-center justify-center bg-white">
 
   <!-- Card 1 -->
   <div class="md:w-[30rem] w-[20rem]  border-2 border-b-4 border-gray-200 rounded-xl hover:bg-gray-50">
@@ -348,7 +348,7 @@ import { onMount } from "svelte";
     </div>
   </div>
 
-<div class='h-64 '></div>
+<div class='h-32 '></div>
 
 <!-- This is an example component -->
 <div class=" mt-34 p-4  yeet opacity-0 bg-gray-900">
