@@ -30,7 +30,7 @@ import { onMount } from "svelte";
   
    
    inView(".card3", (info) => {
-   animate(info.target, { opacity:[1],y:[0,-40]  } ,  {duration:2.4}  )}) 
+   animate(info.target, { opacity:[1],y:[0,-40]  } ,  {duration:2}  )}) 
 
 
    
@@ -57,7 +57,7 @@ import { onMount } from "svelte";
 
 
  
-<img class=' leap  opacity-0  h-64  md:mx-6   mx-auto' src="shine .jpg" alt="">
+<img class=' leap  opacity-0  h-64  md:mx-auto   mx-auto' src="shine .jpg" alt="">
 
 
 
@@ -253,7 +253,7 @@ import { onMount } from "svelte";
 <!--section5-->
 
 
-<div class="text-center mt-20 font-bold  text-2xl text-gray-500">more info</div>
+<div class="text-center mt-20 font-bold yeet opacity-0  text-2xl text-gray-500">more info</div>
 
 
 <!-- component -->
@@ -264,7 +264,7 @@ import { onMount } from "svelte";
 
 
 
-<div class="h-screen flex flex-col mt-12 mx-auto yeet opacity-0  gap-4 items-center justify-center bg-white">
+<div class="h-screen flex flex-col mt-32 mx-auto yeet opacity-0  gap-4 items-center justify-center bg-white">
 
   <!-- Card 1 -->
   <div class="md:w-[30rem] w-[20rem]  border-2 border-b-4 border-gray-200 rounded-xl hover:bg-gray-50">
