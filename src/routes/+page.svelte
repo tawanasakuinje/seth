@@ -57,7 +57,7 @@ import { onMount } from "svelte";
 
 
  
-<img class=' yeet  opacity-0  h-32 mt-10 mx-6 ' src="ssw.png" alt="">
+<img class=' leap  opacity-0  h-64  md:mx-6   mx-auto' src="shine .jpg" alt="">
 
 
 
@@ -72,7 +72,7 @@ import { onMount } from "svelte";
   <div class="md:w-1/2   w-full  ">
 
 
-  <img class="md:h-80 md:w-80 mx-16 absolute  beem  h-48 w-48 md:mx-12 md:absolute md:mt-2 mt-24 opacity-0 object-cover shadow-xl shadow-gray-300 rounded-full " src="hand.png" alt="">    
+  <img class="md:h-80 md:w-80 mx-16 absolute  beem  h-48 w-48 md:mx-12 md:absolute md:mt-10 mt-24 opacity-0 object-cover shadow-xl shadow-gray-300 rounded-full " src="hand.png" alt="">    
 </div>
 </div>
 
@@ -115,7 +115,7 @@ import { onMount } from "svelte";
 
 <div class="flex md:mt-32 mt-32 md:flex-row flex-col-reverse beem opacity-0 "> 
 
-<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6  text-xl mt-12 m-12 mx-auto text-gray-500 md:p-4  shadow-lg rounded-lg md:h-64 ">Superior Shine Windows is professional and personal run business, offering a regular & reliable service. We guarantee competent and friendly service, with a desire to make our customers as satisfied as possible with our work. </div>
+<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6  text-2xl mt-12 m-12 mx-auto text-gray-500 md:p-4  shadow-lg rounded-lg md:h-64 ">Superior Shine Windows is professional and personal run business, offering a regular & reliable service. We guarantee competent and friendly service, with a desire to make our customers as satisfied as possible with our work. </div>
  
 <div  class='md:w-1/2  p-4'><img class="h-80 object-cover mx-auto md:mx-32" src="bb.png" alt=""></div>
 </div>
