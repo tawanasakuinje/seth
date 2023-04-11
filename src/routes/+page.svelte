@@ -115,7 +115,7 @@ import { onMount } from "svelte";
 
 <div class="flex md:mt-32 mt-32 md:flex-row flex-col-reverse beem opacity-0 "> 
 
-<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6  text-2xl mt-12 m-12 mx-auto text-gray-500 md:p-4  shadow-lg rounded-lg md:h-64 ">Superior Shine Windows is professional and personal run business, offering a regular & reliable service. We guarantee competent and friendly service, with a desire to make our customers as satisfied as possible with our work. </div>
+<div class="md:w-1/2 md:text-lg md:mx-12  w-80 p-6  text-2xl mt-12 m-12 mx-auto text-gray-500 md:p-4  shadow-lg rounded-lg md:h-64 ">A locally owned window cleaning business servicing Lynchburg, VA and surrounding areas. We specialize in residential and commercial window cleaning services. We can also provide cleaning to gutters and solar panels. Serving the community and others is a core value of ours. A portion of our proceeds are earmarked to help an orphanage in Cameroon Africa to provide financial support and help the kids with resources to to attend school and obtain an education. I also donate some of my services to support local churches. I invite you to partner with me to love on and support our community of great people.</div>
  
 <div  class='md:w-1/2  p-4'><img class="h-80 object-cover mx-auto md:mx-32" src="bb.png" alt=""></div>
 </div>
